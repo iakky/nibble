@@ -1,0 +1,42 @@
+
+.toptop{
+    display : flex;
+    justify-content: center;
+}
+.social_icon{
+    margin-top: 5px;
+}
+
+.welcome{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFC78F;
+    height: 300px;
+    padding: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.welcome_word{
+    width: 300px;
+    font-size:50px;
+    text-align: center;
+}
+.welcome_content{
+    font-size: 15px;
+    color: white;   
+}
+.button_block{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.btn-group{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.img_fluid{
+    max-width: 75%;
+    margin-bottom: 20px;
+}
